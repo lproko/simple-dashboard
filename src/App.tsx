@@ -5,7 +5,7 @@ const theme = extendTheme({
   styles: {
     global: {
       "html, body": {
-        background: "#F7F7F7", // or use a specific color code like "#f0f0f0"
+        background: "#F7F7F7",
         margin: 0,
         padding: 0,
         boxSizing: "border-box",
